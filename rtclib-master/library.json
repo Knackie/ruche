@@ -1,0 +1,13 @@
+{
+  "name": "RTClib",
+  "keywords": "RTC, date, time",
+  "description": "A lightweight date and time library for JeeNodes and Arduino's",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jcw/rtclib.git"
+  },
+  "examples": "examples/*/*.ino",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
