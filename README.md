@@ -8,7 +8,7 @@ Pour avoir un miel de qualité, certaines conditions doivent être respectées :
 
 ## Fonctionnalités
 Le logiciel permet de tenir l’apiculteur au courant des données à travers :
-* Des alertes lorsque les conditions ne sont plus respectées.
+* Des alertes lorsque les conditions ci-dessus ne sont plus respectées.
 * Des informations en temps réel par SMS.
 * Un site web.
 
